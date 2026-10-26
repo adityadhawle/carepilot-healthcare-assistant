@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+data/
+app_backup*.py
+.agents/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
